@@ -1,0 +1,178 @@
+body {
+    background-color: #ffffff;
+    color: brown;
+    font-family: helvetica,sans-serif;
+    margin: 20px 40px;
+    
+}
+
+a{
+    text-decoration: none;
+    color: aqua
+}
+
+a:hover {
+    color: rgb(128, 128, 235);
+    background-color: red
+}
+
+a:visited {
+    color: rgb(121, 100, 241)
+}
+
+.container {
+    height: 100px;
+    background-color: gray;
+    box-lines: 80px
+    /* margin: 3px 100px */
+}
+
+.reason {
+    height: 90px;
+    background-color: gray;
+    box-lines: 80px
+    /* margin: 3px 100px */
+}
+.roara {
+    height: 50px;
+    background-color: gray;
+    box-lines: 80px
+    /* margin: 3px 100px */
+}
+.bg-kadet{
+    height: 100;
+    background: #ffff
+
+}
+.logo {
+      text-align: center;
+}
+
+.menu-primer ul {
+     background-color: black;
+     border-radius: 1px;
+     box-shadow:
+           0 3px 5px -1px rgba(0, 0, 0, 0.2),
+           0 6px 10px 0 rgba(0, 0, 0, 0.14),
+           0 1px 18px 0 rgba(0, 0, 0, 0.12),
+}
+.menu-primer li {
+    display: inline-block;
+
+}
+.menu-primer a {
+    text-transform: uppercase;
+    display: inline-block;
+    padding: 6px 10px;
+    letter-spacing: 1px;
+}
+.menu-primer a:hover {
+    background-color: #ffffff;
+    color: red;
+}
+
+.menu-primer .active {
+    background-color: #ffffff;
+    color: green;
+}
+
+.jumbotron {
+    background-color: #ffffff;
+    border: solid 4px #000000;
+    border-radius: 8px;
+}
+
+.jumbotron h1 {
+    margin: 20px 40px;
+    font-size: 16px;
+}
+.jumbotron h1 {
+    margin: 20px 40px;
+    font-size: 16px;
+}
+.extrac {
+    background-color: gray; 
+    margin: 20px 20px;
+    font-size: 10px;
+}
+.berata {
+    background-color: grey; 
+    margin: 40px 20px;
+    font-size: 20px;
+}
+.berita {
+    background-position: 20px;
+    margin: 0px;
+    box-lines: 20px;
+    float: left;
+}
+.laman{
+    background-color: whitesmoke;
+    font-size: 12px 14px 
+}
+.rasio {
+    background-color: rgb(175, 175, 173);
+    font-size: 12px 14px;
+    margin: 0px;
+}
+.ramen {
+    background-color: rgb(175, 175, 173);
+    font-size: 40px 40px;
+    margin: 0px;
+}
+.berito {
+    background-position: 10px;
+    margin: 0px;
+    float: left;
+    box-lines: 0px;
+}
+.wano {
+    background-color: aliceblue;
+    float: left;
+    box-lines: 10px;
+}
+.wana {
+    background-color: aliceblue;
+    float: right;
+    box-lines: 10px;
+}
+.Footer-box {
+    background: #ffffff
+
+}
+.colo {
+    color: grey;
+    text-align: center;
+ }
+ .pola {
+    float: left;
+    font-family: verdana;
+    font-size: 10px;
+ }
+ .polas {
+    float: right;
+    font-family: verdana;
+    font-size: 10px;
+ }
+ .cola {
+    color: grey;
+    text-align: center;
+ }
+ .cari {
+    text-align: center;
+ }
+ .ciri {
+     float: left;
+    text-align: center;
+    width: 5px auto;
+ }
+ .curi {
+     float: right;
+    text-align: center;
+    width: 5px auto;
+ }
+ .ceri {
+    float: under;
+   text-align: center;
+   width: 5px auto;
+}
